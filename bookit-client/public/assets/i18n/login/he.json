@@ -1,0 +1,14 @@
+{
+	"Enter the SMS code": "SMS אימות קוד ",
+	"Verify OTP": "SMS אימות",
+	"Sign in": "כניסה",
+	"Enter your phone": "הזן את מספר הטלפון שלך",
+	"Enter your name": "הזן את שמך",
+	"Login": "כניסה",
+	"Don't have an account?": "? אין לך חשבון",
+	"Sign up": "הרשמה",
+	"OTP sended successfully!": "!קוד אימות נשלח לנייד שלך",
+	"OTP verified successfully!": "!קוד אימות אומת בהצלחה",
+	"Something went wrong!": "משהו השתבש אנא בדוק שוב את מספר הטלפון שלך",
+	"verify": "אנא בדוק שרשמת את מספר הטלפון שלך בצורה הנכונה ונסה שוב, לדוגמא: 0541234567"
+}

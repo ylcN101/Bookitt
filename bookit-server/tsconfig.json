@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "paths": {
+      "@config/*": ["./src/config/*"],
+      "@middlewares/*": ["./src/middlewares/*"],
+      "@auth/*": ["./src/modules/auth/*"],
+      "@appointments/*": ["./src/modules/appointments/*"],
+      "@schedules/*": ["./src/modules/schedules/*"],
+      "@services/*": ["./src/modules/services/*"],
+      "@shops/*": ["./src/modules/shops/*"],
+      "@users/*": ["./src/modules/users/*"],
+      "@/*": ["./src/*"]
+    },
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "sourceMap": true,
+    "outDir": "./build",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "skipLibCheck": true
+  }
+  //   "include": ["./src/**/*"]
+}
