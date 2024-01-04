@@ -12,7 +12,7 @@
 
 **Client:** JavaScript(ES6), Tailwind, React.js, Axios
 
-**Server:** Node.js, Express.js, MongoDB, REST APIs, Postman, Cookie Session.
+**Server:** Node.js, Express.js, MongoDB, REST APIs, Cookie Session.
 
   <br/>
     </br>
